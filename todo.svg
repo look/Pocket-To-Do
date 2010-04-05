@@ -69,10 +69,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87885424"
-     inkscape:cx="569.55929"
-     inkscape:cy="398.61297"
-     inkscape:current-layer="svg2816"
+     inkscape:zoom="1.5219183"
+     inkscape:cx="95.803863"
+     inkscape:cy="17.926426"
+     inkscape:current-layer="g2707"
      id="namedview2820"
      showgrid="false"
      inkscape:window-width="1363"
@@ -263,24 +263,16 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Originals"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g2707">
       <rect
          style="fill:#000000;fill-opacity:0.11702127;stroke:none"
          id="rect3696"
-         width="189.86035"
+         width="231.68565"
          height="24.478512"
-         x="550.0553"
+         x="508.23001"
          y="-88.093864" />
-      <rect
-         y="-87.788879"
-         x="56.676994"
-         height="24.173527"
-         width="75.652908"
-         id="rect3694"
-         style="fill:#000000;fill-opacity:0.11702127;stroke:none" />
       <rect
          y="-88.230232"
          x="56.905495"
@@ -300,22 +292,22 @@
          inkscape:connector-curvature="0" />
       <path
          id="path3615"
-         d="m 398.20947,-80.128452 0,8.852341"
+         d="m 328.3125,-80.128452 0,8.852341"
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         d="m 360.22542,-80.128452 0,8.852341"
+         d="m 283.3125,-80.1285 0,8.852341"
          id="path3617"
          inkscape:connector-curvature="0" />
       <path
          id="path3619"
-         d="m 322.24135,-80.128452 0,8.852341"
+         d="m 238.2415,-80.128452 0,8.852341"
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
       <flowRoot
-         transform="matrix(1.2865006,0,0,1.2131461,-266.90394,-34.712494)"
-         style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="matrix(1.2865006,0,0,1.2131461,-264.90394,-34.712494)"
+         style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:0.4745098;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot3635"
          xml:space="preserve"><flowRegion
            id="flowRegion3637"><rect
@@ -324,13 +316,13 @@
              height="118.62032"
              width="134.74345"
              id="rect3639"
-             style="font-size:8.00457859px" /></flowRegion><flowPara
-           style="font-size:8.00457859px"
-           id="flowPara3641">6 AM</flowPara></flowRoot>      <flowRoot
+             style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098" /></flowRegion><flowPara
+           style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098"
+           id="flowPara3641">9 AM</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot3643"
          style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         transform="matrix(1.2865006,0,0,1.2131461,-56.9062,-34.045337)"><flowRegion
+         transform="matrix(1.2865006,0,0,1.2131461,-146.9062,-34.045337)"><flowRegion
            id="flowRegion3645"><rect
              id="rect3647"
              width="134.74345"
@@ -340,7 +332,7 @@
              style="font-size:8.00457859px" /></flowRegion><flowPara
            id="flowPara3649"
            style="font-size:8.00457859px">12 PM</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.2865006,0,0,1.2131461,177.6703,-35.439978)"
+         transform="matrix(1.2865006,0,0,1.2131461,165.6703,-35.439978)"
          style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot3651"
          xml:space="preserve"><flowRegion
@@ -367,7 +359,7 @@
            id="flowPara3669"
            style="font-size:8.00457859px">12 AM</flowPara></flowRoot>      <path
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         d="m 436.19352,-80.128452 0,8.852341"
+         d="m 373.3125,-80.128452 0,8.852341"
          id="path3252"
          inkscape:connector-curvature="0" />
       <g
@@ -375,18 +367,18 @@
          transform="matrix(1,0,0,0.51774451,0,-103.99629)">
         <path
            id="path3621"
-           d="m 284.25731,30.767135 0,46.825281"
+           d="m 192.225,30.767135 0,46.825281"
            style="fill:none;stroke:#000000;stroke-width:0.62539554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:0.62539554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 512.16162,30.767135 0,46.825281"
+           d="m 463.225,30.767135 0,46.825281"
            id="path3254"
            inkscape:connector-curvature="0" />
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         d="m 550.14565,-80.128452 0,8.852341"
+         d="m 509.3125,-80.128452 0,8.852341"
          id="path3256"
          inkscape:connector-curvature="0" />
       <path
@@ -401,24 +393,11 @@
          inkscape:connector-curvature="0" />
       <path
          id="path3262"
-         d="m 474.17756,-80.128452 0,8.852341"
+         d="m 418.3125,-80.128452 0,8.852341"
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
       <flowRoot
-         xml:space="preserve"
-         id="flowRoot4087"
-         style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:0.4745098;stroke:none;font-family:Bitstream Vera Sans"
-         transform="matrix(1.2865006,0,0,1.2131461,-169.19355,-34.712494)"><flowRegion
-           id="flowRegion4089"><rect
-             id="rect4091"
-             width="134.74345"
-             height="118.62032"
-             x="249.90881"
-             y="-22.731003"
-             style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098" /></flowRegion><flowPara
-           id="flowPara4093"
-           style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098">9 AM</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.2865006,0,0,1.2131461,61.137152,-34.712494)"
+         transform="matrix(1.2865006,0,0,1.2131461,-4.862848,-34.712494)"
          style="font-size:8.00457859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:0.4745098;stroke:none;font-family:Bitstream Vera Sans"
          id="flowRoot4095"
          xml:space="preserve"><flowRegion
@@ -444,29 +423,14 @@
              style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098" /></flowRegion><flowPara
            id="flowPara4109"
            style="font-size:8.00457859px;fill:#000000;fill-opacity:0.4745098">9 PM</flowPara></flowRoot>      <path
-         id="path3623"
-         d="m 246.27327,-80.128452 0,8.852341"
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         d="m 208.28921,-80.128452 0,8.852341"
+         d="m 146.3125,-80.128452 0,8.852341"
          id="path3625"
          inkscape:connector-curvature="0" />
       <path
-         id="path3627"
-         d="m 170.30517,-80.128452 0,8.852341"
          style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
-         d="m 132.32111,-80.128452 0,8.852341"
+         d="m 101.3125,-80.128452 0,8.852341"
          id="path3629"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3631"
-         d="m 94.337061,-80.128452 0,8.852341"
-         style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4745098;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
     </g>
     <flowRoot
